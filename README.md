@@ -2,17 +2,17 @@
 
 This Application calculate the are of Circle.
 
-   ![Alt text](image.png)
+   ![Alt text](./Assets/image.png)
 
 I have used very basic operations and formula which is solve area of Circle:
 
 * Console input/output 
 
-    ![Alt text](image-1.png)
+    ![Alt text](./Assets/image-1.png)
 
 * Arithmetic operations and `string` interpolation
 
-    ![Alt text](image-2.png)
+    ![Alt text](./Assets/image-2.png)
 
 If you want to run my code in your local computer, you can clone my code.
 
