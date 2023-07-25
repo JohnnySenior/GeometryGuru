@@ -1,18 +1,34 @@
 # GeometryGuru
 
-This Application calculate the are of Circle.
+This Application calculate the are of two shapes.
 
-   ![Alt text](./Assets/image.png)
+    1. Circle
+
+   ![image](./Assets/image.png)
+
+    2. Triangle
+
+![image](./Assets/triangle.png)
 
 I have used very basic operations and formula which is solve area of Circle:
 
 * Console input/output 
 
-    ![Alt text](./Assets/image-1.png)
+    ![image](./Assets/image-1.png)
 
 * Arithmetic operations and `string` interpolation
 
-    ![Alt text](./Assets/image-2.png)
+    ![image](./Assets/image-2.png)
+
+* `switch` statement
+
+    ![image](./Assets/result.png)
+
+### Result:
+
+![gif](./Assets/Animation.gif)
+
+    
 
 If you want to run my code in your local computer, you can clone my code.
 
