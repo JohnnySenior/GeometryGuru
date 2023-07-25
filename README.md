@@ -34,6 +34,27 @@ Click here for instruction **[video](https://www.loom.com/share/9cebefe04b8b40f0
 
 ## Release Notes
 
+### V1.0
+
+We are excited to announce the release of version 1.0 of our Geometry Guru App! This release introduces basic arithmetic calculations.
+
+Features Added:
+
+* You can calculate area of Circle.
+
+### Path to Version 1.0
+
+Click green word if you want to go **[Version 1.0](https://github.com/JohnnySenior/GeometryGuru/tree/releases/v1.0)**
+
+V2.0
+
+We are excited to announce the release of version 2.0 of our Geometry Guru App! This release introduces basic arithmetic calculations.
+
+Features Added:
+
+* Bug fixes and other minor improvements.
+* Add switch statement.
+=======
 ### *V1.0*
 
 We are excited to announce the release of version 1.0 of our Geometry Guru App! This release introduces basic arithmetic calculations.  
@@ -59,6 +80,4 @@ We are excited to announce the release of version 2.0 of our Geometry Guru App! 
     * Circle
     * Triangle
 
-## Path to Version 2.0
-
-Click green word if you want to go *[Version 2.0](https://github.com/JohnnySenior/GeometryGuru/tree/releases/v2.0)*
+### Note: You are in Version 2.0 now.
