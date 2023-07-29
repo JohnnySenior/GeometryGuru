@@ -14,23 +14,31 @@ I have used very basic operations and formula which is solve area of Circle:
 
 * Console input/output 
 
-    ![image](./Assets/image-1.png)
+    ![image](./Assets/console.png)
 
 * Arithmetic operations and `string` interpolation
 
-    ![image](./Assets/image-2.png)
+    ![image](./Assets/arith.png)
 
 * `switch` statement
 
-    ![image](./Assets/result.png)
+    ![image](./Assets/switch.png)
 
 * `do while` Loop
 
-    ![image](./Assets/image-3.png)
+    ![image](./Assets/do-while.png)
+
+* `Random` class
+    * ![image](./Assets/random1.png)
+    * ![image](./Assets/random2.png)
+
+* `try catch` operation
+
+    ![image](./Assets/try.png)
 
 ### Result:
 
-![gif](./Assets/Animation-1.gif)
+![gif](./Assets/Animation-2.gif)
 
 If you want to run my code in your local computer, you can clone my code.
 
@@ -82,5 +90,16 @@ Features Added:
     * Circle
     * Triangle
 
+Click green word if you want to go **[Version 3.0](https://github.com/JohnnySenior/GeometryGuru/tree/releases/v3.0)**
 
-### Note: You are in Version 3.0 now.
+### V3.1
+
+We are excited to announce the release of version 3.1 of our Geometry Guru App! This release introduces `try catch` operation.
+
+Features Added:
+
+* Add try catch operation.
+    * Format Exception: if you enter wrong data type value. App will shows you.
+    * Overflow Exception: if you enter too large value or too small, you can see overflow exception.
+
+### Note: You are in **_Version 3.1_** now.
