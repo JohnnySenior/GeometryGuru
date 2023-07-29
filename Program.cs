@@ -8,9 +8,24 @@ Console.WriteLine();
 Console.Write("Choose shape: ");
 
 Random random = new Random();
+int option = 0;
 
-string stringOption = Console.ReadLine();
-int option = int.Parse(stringOption);
+try
+{
+    option = int.Parse(Console.ReadLine());
+}
+catch (FormatException formatException)
+{
+    Console.WriteLine("The input is not in a correct format");
+}
+catch (OverflowException overflowException)
+{
+    Console.WriteLine("Value is too large or too small, take a look data type.");
+}
+catch (Exception exception)
+{
+    Console.WriteLine(exception.Message);
+}
 
 switch (option)
 {
